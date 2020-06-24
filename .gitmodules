@@ -1,0 +1,15 @@
+[submodule "themes/codex"]
+	path = themes/codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/whisper"]
+	path = themes/whisper
+	url = https://github.com/jugglerx/hugo-whisper-theme.git
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = https://github.com/MunifTanjim/minimo
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/victoriadrake/hugo-theme-sam.git

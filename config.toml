@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Yellow Dusk"
+theme = "sam"
+copyright = ""
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"
+    footerText           = "When the sun reaches the Abyss of Anxiety, this is called Yellow Dusk."
+    description          = "Yellow Dusk"
+
+[[params.mainMenu]]
+    link = "blog"
+    text = "blog"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "about"
