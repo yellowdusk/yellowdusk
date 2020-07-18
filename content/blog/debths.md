@@ -1,10 +1,10 @@
 ---
 title: "Debths"
-date: 2020-06-24T15:29:11-04:00
+date: 2020-07-18T15:29:11-04:00
 draft: false
 ---
 
-[1] *"THE NAME AND THE SOUL"*
+**[1] "THE NAME AND THE SOUL"**
 
 “The soul,” Susan Howe tells us, “appears or occurs as something we feel compelled to live into or move toward as if it were there floating a little apart and at an angle or” (20). The ending of that quote is no error: the other possibilities go unsaid. The soul, on this model, is not a possession. Ever out of reach, it draws us onward. This clarifies a crucial grammatical ambiguity found early on in “Titian Air Vent,” the second of the five sections of *Debths* (28):
 
@@ -20,7 +20,7 @@ Our poet, then, is beckoned onward. Onward to what? She is, we find, “here to 
 
 So we must set aside this first reading, and turn to a second. On this reading, “in” tells us the location of the dragon: it resides within the ready-made name. Names, in fixing the soul’s flux, are at odds with soul’s beckoning. So names must be contested. Not that Howe is against names altogether. She recognizes that “there are names under things and names inside names” (10). Names are unavoidable, as is the fight against them. Between “THE NAME AND THE SOUL” (84) is a productive tension. Hold that thought (§3).
 
-[2] *“the laws which govern clutter”*
+**[2] “the laws which govern clutter”**
 
 The key to reading *Debths* is to recognize the precarious balance it maintains between order and disorder. The second collage in the book’s third section (“Tom Tit Tot”) offers the following suggestive fragments (45):
 
@@ -58,7 +58,7 @@ But this does not yet tell us what the poet has made by this activity of reworki
 
 It is this injunction to leap that gives me confidence in my judgment that we are to hear “beckon” in Howe’s “Beacon.” Did Howe intend it? I do not know. But it is audible, at least to my ear, and that suffices to justify the leap. The reader cannot avoid his own reworking of the material.
 
-[3] *“The people of ~~the~~ coming ~~times~~ will know”*
+**[3] “The people of ~~the~~ coming ~~times~~ will know”**
 
 The days are past when one can publish 154 sonnets on the theme of their author’s immortality (in virtue of nothing other than having been their author) and actually achieve that very immortality, but that has not stopped poets from fretting over their poetic afterlives. Concerned as she is with her self-construction (and attendant self-slaying), Howe is naturally drawn also to a concern with what, exactly, it is that she is making.
 
@@ -83,7 +83,7 @@ But even as *Debths* announces its author’s metaphorical death, it also is a b
 
 This is not the perpetual endurance envisioned by Shakespeare. It is, rather more modestly, a fitful revisiting of old haunts, of the places she has made in her poems. Given the dependence of a poet’s immortality on the whims of readers, those elusive creatures, Howe’s model seems the more realistic.
 
-[4] *“~~upon the frontier of~~”*
+**[4] “~~upon the frontier of~~”**
 
 There is more to be said about the poet’s literal death. *Debths* culminates in its title poem, the second of its two collages. The title, “Debths,” is built from at least three sources: ‘debts’, ‘depths’, and ‘deaths’. The book is an exploration of all three, but it is the last that comes to the fore in the title poem. The pages are sparsely occupied: in contrast to the clamor of competing voices that runs through “Tom Tit Tot,” the pages of “Debths” mostly give us a single voice struggling to be heard.
 
