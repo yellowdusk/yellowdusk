@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yellow Dusk</title>
-    <link>http://example.org/</link>
+    <link>http://yellowdusk.eschatronics.ca/</link>
     <description>Recent content on Yellow Dusk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2020 15:29:11 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yellowdusk.eschatronics.ca/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Debths</title>
-      <link>http://example.org/blog/debths/</link>
+      <link>http://yellowdusk.eschatronics.ca/blog/debths/</link>
       <pubDate>Wed, 24 Jun 2020 15:29:11 -0400</pubDate>
       
-      <guid>http://example.org/blog/debths/</guid>
+      <guid>http://yellowdusk.eschatronics.ca/blog/debths/</guid>
       <description>[1] &amp;ldquo;THE NAME AND THE SOUL&amp;rdquo;
 “The soul,” Susan Howe tells us, “appears or occurs as something we feel compelled to live into or move toward as if it were there floating a little apart and at an angle or” (20). The ending of that quote is no error: the other possibilities go unsaid. The soul, on this model, is not a possession. Ever out of reach, it draws us onward.</description>
     </item>
