@@ -4,8 +4,7 @@ defaultContentLanguage = "en"
 title = "Yellow Dusk"
 theme = "hermit"
 
-[author]
-    name = "CC BY-NC 4.0"
+Paginate = 10
 
 [taxonomies]
     tags = "tags"
@@ -19,9 +18,10 @@ theme = "hermit"
     description          = "Yellow Dusk"
     themeColor           = "#494f5c"
     homeSubtitle         = "When the sun reaches the Abyss of Anxiety, this is called Yellow Dusk."
-    justifyContent       = false
+    justifyContent       = true
     relatedPosts         = false
     code_copy_button     = false
+    footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
 
@@ -34,4 +34,4 @@ theme = "hermit"
   [[menu.main]]
     name = "about"
     url = "about"
-    weight = 20
+    weight = 10
