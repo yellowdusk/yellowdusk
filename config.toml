@@ -3,7 +3,9 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Yellow Dusk"
 theme = "hermit"
-copyright = "nobody"
+
+[author]
+    name = "nobody"
 
 [taxonomies]
     tags = "tags"
