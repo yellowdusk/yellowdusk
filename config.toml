@@ -3,7 +3,6 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Yellow Dusk"
 theme = "hermit"
-copyright = ""
 
 [author]
     name = "Vetiver"
