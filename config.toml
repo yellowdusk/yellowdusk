@@ -2,21 +2,37 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Yellow Dusk"
-theme = "sam"
+theme = "hermit"
 copyright = ""
 
+[author]
+    name = "Vetiver"
+
+[taxonomies]
+    tags = "tags"
+
 [params]
-    dateform             = "Mon Jan 02, 2006"
-    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
+    dateform             = "Jan 2, 2006"
+    dateformshort        = "Jan 2"
+    dateformNum          = "2006-01-02"
+    dateformNumTime      = "2006-01-02 15:04 -0700"
     homepage             = "main"
-    footerText           = "When the sun reaches the Abyss of Anxiety, this is called Yellow Dusk."
     description          = "Yellow Dusk"
+    themeColor           = "#494f5c"
+    homeSubtitle         = "When the sun reaches the Abyss of Anxiety, this is called Yellow Dusk."
+    justifyContent       = false
+    relatedPosts         = false
+    code_copy_button     = false
 
-[[params.mainMenu]]
-    link = "blog"
-    text = "blog"
+[menu]
 
-[[params.mainMenu]]
-    link = "about"
-    text = "about"
+
+  [[menu.main]]
+    name = "blog"
+    url = "blog/"
+    weight = 10
+
+  [[menu.main]]
+    name = "about"
+    url = "about"
+    weight = 20
