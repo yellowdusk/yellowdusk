@@ -1,8 +1,9 @@
-baseURL = "http://yellowdus.cc"
+baseURL = "https://yellowdus.cc"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Yellow Dusk"
 theme = "hermit"
+copyright = false
 
 [author]
     name = "Vetiver"
