@@ -5,9 +5,6 @@ title = "Yellow Dusk"
 theme = "hermit"
 copyright = "nobody"
 
-[author]
-    name = "Vetiver"
-
 [taxonomies]
     tags = "tags"
 
