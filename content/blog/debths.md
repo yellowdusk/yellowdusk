@@ -1,5 +1,5 @@
 ---
-title: "Debths"
+title: "Debths (Susan Howe)"
 date: 2020-07-18T15:29:11-04:00
 draft: false
 ---
