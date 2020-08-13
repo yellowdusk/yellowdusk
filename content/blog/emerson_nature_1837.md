@@ -1,5 +1,5 @@
 ---
-title: "Emerson_nature_1837"
+title: "Idealism and Poetry"
 date: 2020-08-12T20:17:49-07:00
 draft: false
 ---
