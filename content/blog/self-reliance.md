@@ -1,5 +1,5 @@
 ---
-title: "Self Reliance"
+title: "Self-Reliance"
 date: 2020-11-17T08:57:08-08:00
 draft: false
 ---
