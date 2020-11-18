@@ -28,4 +28,4 @@ draft: false
 
 **B:** I am your friend, then?
 
-**A:** Oh yes, beyong question! Who ever doubted it?
+**A:** Oh yes, beyond question! Who ever doubted it?
